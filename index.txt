@@ -1,0 +1,19 @@
+EMPREST.AI
+EMPREST.AI
+Controle cada item em movimento.
+Acompanhe equipamentos, prazos e devoluções em um único fluxo simples,
+com visibilidade para colaborador e operações.
+3
+itens por pessoa
+14
+dias de prazo
+0
+linhas para preencher
+Operações · TI interno
+Entrar
+Acesse seu painel e acompanhe seus empréstimos.
+E-mail
+Senha
+Entrar
+Entrar como Operações
+Cada pessoa vê apenas os próprios empréstimos.
